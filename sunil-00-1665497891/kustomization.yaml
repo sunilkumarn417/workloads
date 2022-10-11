@@ -1,0 +1,21 @@
+resources:
+- pvc-sunil-00-1665497891-1gi-0.yaml
+- pod-sunil-00-1665497891-1gi-0.yaml
+- pvc-sunil-00-1665497891-1gi-1.yaml
+- pod-sunil-00-1665497891-1gi-1.yaml
+- pvc-sunil-00-1665497891-1gi-2.yaml
+- pod-sunil-00-1665497891-1gi-2.yaml
+- pvc-sunil-00-1665497891-1gi-3.yaml
+- pod-sunil-00-1665497891-1gi-3.yaml
+- pvc-sunil-00-1665497891-1gi-4.yaml
+- pod-sunil-00-1665497891-1gi-4.yaml
+- pvc-sunil-00-1665497891-2gi-0.yaml
+- pod-sunil-00-1665497891-2gi-0.yaml
+- pvc-sunil-00-1665497891-2gi-1.yaml
+- pod-sunil-00-1665497891-2gi-1.yaml
+- pvc-sunil-00-1665497891-2gi-2.yaml
+- pod-sunil-00-1665497891-2gi-2.yaml
+- pvc-sunil-00-1665497891-2gi-3.yaml
+- pod-sunil-00-1665497891-2gi-3.yaml
+- pvc-sunil-00-1665497891-2gi-4.yaml
+- pod-sunil-00-1665497891-2gi-4.yaml
