@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: rahul-00-1675766753-1gi-3-pod
+  namespace: rahul-00-1675766753
+spec:
+  containers:
+  - command:
+    - sh
+    - -c
+    - while true; do echo $(date); dd if=/dev/urandom bs=1024 count=10240 of=/mnt/test/mbr.img
+      oflag=append conv=notrunc; sync; sleep 1; done
+    image: quay.io/vcppds7878/busybox:latest
+    imagePullPolicy: IfNotPresent
+    name: busybox
+    volumeMounts:
+    - mountPath: /mnt/test
+      name: rahul-00-1675766753-1gi-3-volume
+  volumes:
+  - name: rahul-00-1675766753-1gi-3-volume
+    persistentVolumeClaim:
+      claimName: rahul-00-1675766753-1gi-3-pvc
+      readOnly: false
