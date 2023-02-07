@@ -1,0 +1,21 @@
+resources:
+- pvc-rahul-002-1675754581-1gi-0.yaml
+- pod-rahul-002-1675754581-1gi-0.yaml
+- pvc-rahul-002-1675754581-1gi-1.yaml
+- pod-rahul-002-1675754581-1gi-1.yaml
+- pvc-rahul-002-1675754581-1gi-2.yaml
+- pod-rahul-002-1675754581-1gi-2.yaml
+- pvc-rahul-002-1675754581-1gi-3.yaml
+- pod-rahul-002-1675754581-1gi-3.yaml
+- pvc-rahul-002-1675754581-1gi-4.yaml
+- pod-rahul-002-1675754581-1gi-4.yaml
+- pvc-rahul-002-1675754581-2gi-0.yaml
+- pod-rahul-002-1675754581-2gi-0.yaml
+- pvc-rahul-002-1675754581-2gi-1.yaml
+- pod-rahul-002-1675754581-2gi-1.yaml
+- pvc-rahul-002-1675754581-2gi-2.yaml
+- pod-rahul-002-1675754581-2gi-2.yaml
+- pvc-rahul-002-1675754581-2gi-3.yaml
+- pod-rahul-002-1675754581-2gi-3.yaml
+- pvc-rahul-002-1675754581-2gi-4.yaml
+- pod-rahul-002-1675754581-2gi-4.yaml
